@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1511444241 source:g:\modelofinal\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1510324829 g:\modelofinal\arraylist.h
+
+1512333604 source:g:\modelofinal\fun.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"fun.h"
+
+1512333158 g:\modelofinal\fun.h
+
+1512346132 source:g:\modelofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fun.h"
+	"arrayList.h"
+	"General.h"
+
+1512343641 source:g:\modelofinal\services.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fun.h"
+	"arrayList.h"
+	"services.h"
+
+1512343640 g:\modelofinal\services.h
+	"arrayList.h"
+
+1512344022 source:g:\modelofinal\log.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fun.h"
+	"arrayList.h"
+	"log.h"
+
+1512343640 g:\modelofinal\log.h
+	"arrayList.h"
+
+1512347726 source:g:\modelofinal\general.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fun.h"
+	"arrayList.h"
+	"log.h"
+	"services.h"
+
+1512344970 g:\modelofinal\general.h
+	"arrayList.h"
+
